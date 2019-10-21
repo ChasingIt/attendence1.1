@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "828968791832",
+    "firebase_url": "https://data-b4fdf.firebaseio.com",
+    "project_id": "data-b4fdf",
+    "storage_bucket": "data-b4fdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828968791832:android:a5971982ddf2690bc6386d",
+        "android_client_info": {
+          "package_name": "com.example.attendence11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828968791832-ubok07es40tq1h7n81mo14ju6dqkqkov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendence11",
+            "certificate_hash": "5c8d6d0ee63e04f0d5e980b1af671b5b7942837c"
+          }
+        },
+        {
+          "client_id": "828968791832-4lnt0ordl6n3m9t8sjd38aq3ogt7nuo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJictHKPiWJxRl7WhYd-gmLG7ZFC-rW6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828968791832-4lnt0ordl6n3m9t8sjd38aq3ogt7nuo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
